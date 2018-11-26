@@ -1,0 +1,12 @@
+# ignore all files in the directory named .idea
+.idea/
+# ignore all files in the directory named __pycache__
+__pycache__/
+# ignore all files in the directory named venv
+venv/
+# ignore all files in the directory named part2/__pycache__
+part2/__pycache__
+# ignore all files in the directory named part2/book1-exercises-master
+part2/book1-exercises-master
+# ignore all files in the directory named part2/book1-exercises-master
+part2/book-exercises-master.zip

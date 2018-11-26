@@ -1,0 +1,70 @@
+shutil Module - for dealing with files and directory movements
+URL : https://docs.python.org/3/library/shutil.html
+
+pathlib Module - for dealing with Object Oriented File Paths
+URL : https://docs.python.org/3.5/library/pathlib.html
+
+glob Module - finds all the path names matching a specified pattern according to the rules used by Unix shell.
+URL : https://docs.python.org/3.5/library/glob.html
+
+python-course blog website
+URL : https://www.python-course.eu/
+
+OS Module - common references
+https://docs.python.org/3.5/library/os.html#files-and-directories
+https://docs.python.org/3.5/library/os.path.html
+
+csv Module
+https://docs.python.org/3.5/library/csv.html
+
+python working with excel files
+http://www.python-excel.org/
+https://openpyxl.readthedocs.io/en/stable/
+
+ArgParser
+https://docs.python.org/3.5/library/argparse.html
+
+toolkits (not packaged with python by default)
+http://pypi.python.org/pypi
+
+Installing Python Modules
+https://docs.python.org/3.5/installing/
+
+ReportLab Toolkit
+http://www.reportlab.com/software/opensource/rl-toolkit/
+https://www.reportlab.com/snippets/
+https://www.reportlab.com/docs/reportlab-reference.pdf
+
+Experiment around with ReportLab. For example, try creating an invoice or adding a grid to the table
+we created or importing data from a CSV file.
+Find examples on GitHub or StackOverFlow and work with them.
+Add your own data.
+Figure out ways that you can automate creation of certain reports or letters.
+Maybe you need to send out 1,000 letters where the only difference is the name. How can you automate the creation of these using ReportLab ?
+
+sqlite
+reference: http://www.sqlite.org
+
+PyObc Module allows connections to almost all the databases:
+http://code.google.com/p/pyodbc/wiki/GettingStarted
+
+For Python and PostgreSql
+https://wiki.python.org/moin/PostgreSQL
+
+A decent account on Regular Expressions
+https://docs.python.org/3.5/howto/regex.html
+
+Beautiful soup
+https://www.crummy.com/software/BeautifulSoup/
+
+lxml
+https://lxml.de/
+Although Beautiful Soup is an excellent tool, it has it's limitations.
+lxml is somewhat trickier to get started using, but offers all of the same functionality as Beautiful Soup and more.
+Once you are comfortable with the basics of Beautiful Soup, you should move on to learning how to use "lxml" for more complicated HTML parsing tasks.
+
+Mechanical Soup
+https://github.com/MechanicalSoup/MechanicalSoup
+
+Useful thing :-
+https://wiki.python.org/moin/UsefulModules
